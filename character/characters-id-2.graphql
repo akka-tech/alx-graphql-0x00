@@ -1,0 +1,11 @@
+query {
+    charactersByIds(ids: [2]) {
+    id
+    name
+    status
+    species
+    type
+    gender
+  }
+  
+}
